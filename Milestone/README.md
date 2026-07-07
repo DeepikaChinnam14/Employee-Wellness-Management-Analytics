@@ -48,27 +48,6 @@ Milestone1/
 
 ---
 
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/home_page.png)
-
-### Login Page
-![Login Page](screenshots/login_page.png)
-
-### Sign Up Page
-![Sign Up Page](screenshots/signup_page.png)
-
-### Forgot Password
-![Forgot Password](screenshots/forgot_password_page.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Neon Database
-![Neon Database](screenshots/neon_database.png)
-
----
 
 ## Google Colab Notebook
 (Add your Google Colab notebook link here)
